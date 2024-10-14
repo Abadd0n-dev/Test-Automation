@@ -1,4 +1,6 @@
-import MontyHallParadox.Game;
+package MontyHallParadoxTest;
+
+import main.MontyHallParadox.Game;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 

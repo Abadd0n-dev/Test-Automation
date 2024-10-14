@@ -1,4 +1,4 @@
-package MontyHallParadox;
+package main.MontyHallParadox;
 
 public class Door {
     private final int id;

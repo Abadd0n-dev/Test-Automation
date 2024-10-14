@@ -1,4 +1,4 @@
-package MontyHallParadox;
+package main.MontyHallParadox;
 
 import java.util.Random;
 
